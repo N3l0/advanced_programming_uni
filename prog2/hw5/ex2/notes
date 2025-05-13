@@ -1,0 +1,10 @@
+Ex.2 1)
+It produces an error
+
+
+Ex.2 2)
+You now better what the problem is and handling/fixing it is easier
+
+Ex.2 3)
+Should be used if you need to access stuff in finally or in the catch parts. Makes sure all resources are closed correctly at the end, if
+a exception is thrown or not.
